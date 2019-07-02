@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# IntelliJ project files
+.idea
+*.iml
+out
+
+**/*.md
+**/*.svg
+**/*.ejs
+**/*.html
+package.json
+./android/**/*
+./ios/**/*
