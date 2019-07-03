@@ -1,0 +1,38 @@
+{
+  "logs": [
+    {
+      "outputFile": "/Users/yanghc/Work/RNProject/AwesomeProject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+      "map": [
+        {
+          "source": "/Users/yanghc/.gradle/caches/transforms-2/files-2.1/3a2003c27aba96d42610e52281c8dd2c/res/values-v16/values-v16.xml",
+          "from": {
+            "startLines": "2",
+            "startColumns": "4",
+            "startOffsets": "55",
+            "endColumns": "65",
+            "endOffsets": "116"
+          }
+        },
+        {
+          "source": "/Users/yanghc/.gradle/caches/transforms-2/files-2.1/b09aa90b59e1ba2b0b2cfe669e89d2ed/res/values-v16/values-v16.xml",
+          "from": {
+            "startLines": "2",
+            "startColumns": "4",
+            "startOffsets": "55",
+            "endLines": "5",
+            "endColumns": "12",
+            "endOffsets": "223"
+          },
+          "to": {
+            "startLines": "3",
+            "startColumns": "4",
+            "startOffsets": "121",
+            "endLines": "6",
+            "endColumns": "12",
+            "endOffsets": "289"
+          }
+        }
+      ]
+    }
+  ]
+}

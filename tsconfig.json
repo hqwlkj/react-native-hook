@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "importHelpers": true,
+    "module": "commonjs",
+    "target": "es2015",
+    "jsx": "react",
+    "sourceMap": true,
+    "noEmit": true,
+    "moduleResolution": "node"
+  },
+  "exclude": ["node_modules"]
+}

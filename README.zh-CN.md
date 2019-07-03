@@ -1,6 +1,6 @@
 [English](./README.md) | 简体中文
 
-<h1 align="center">react-native-hook</h1>
+<h1 align="center">react-native hook</h1>
 
 <div align="center">
 
