@@ -13,6 +13,8 @@
 ```
     yarn // 安装依赖
     
+    react-native link
+    
     react-native run-ios 
     or 
     react-native run-android
