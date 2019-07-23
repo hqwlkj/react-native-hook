@@ -11,10 +11,11 @@ react-native implementation based on react hook
 ## Usage
 ```
     yarn // install dependencies
-    react-native run-ios 
     
+    react-native link
+    
+    react-native run-ios 
     or 
-     
     react-native run-android
 ```
 
